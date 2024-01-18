@@ -18,4 +18,4 @@ K-means clustering is an unsupervised machine learning algorithm that partitions
 Ensure you have Python installed. Run the following command in the terminal:
 
 ```bash
-python kmeans.py <data_file>
+python p3.py <data_file>
